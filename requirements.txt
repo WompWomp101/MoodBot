@@ -1,0 +1,12 @@
+python-dotenv
+requests
+langchain
+langchain_core
+langgraph
+openai
+httpx
+pandas
+numpy
+tiktoken
+faiss-cpu
+streamlit
